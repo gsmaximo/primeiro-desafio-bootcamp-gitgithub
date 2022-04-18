@@ -1,7 +1,7 @@
 # primeiro-desafio-bootcamp-gitgithub
 Primeiro desafio de Git/Github
 
-Repositório criado para compartilhar algumas curiosidades de tecnologia.
+Algumas curiosidades de tecnologia.
 
 # CURIOSIDADES :woman_technologist:
 

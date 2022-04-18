@@ -6,7 +6,7 @@
 
 
 
-A programação é uma das áreas mais conceituadas da tecnologia moderna e foi criada por [Ada Lovelace](https://codelogica.wordpress.com/2018/06/16/ada-lovelace/), em 1833, na qualidade de auxiliadora de [Charles Babbage](https://codelogica.wordpress.com/2018/06/15/charles-babbage/) no decorrer da construção da [máquina analítica](https://codelogica.wordpress.com/2018/06/16/a-maquina-analitica/). Na época ninguém proporcionou a devida seriedade para o que ela havia produzido. Somente com o aparecimento de Alan Turing, na década de 40 e 50, é que o mundo reconheceu a importância de [Ada Lovelace](https://codelogica.wordpress.com/2018/06/16/ada-lovelace/) para a tecnologia contemporânea.
+A programação é uma das áreas mais conceituadas da tecnologia moderna e foi criada por Ada Lovelace, em 1833, na qualidade de auxiliadora de Charles Babbage no decorrer da construção da máquina analítica. Na época ninguém proporcionou a devida seriedade para o que ela havia produzido. Somente com o aparecimento de Alan Turing, na década de 40 e 50, é que o mundo reconheceu a importância de Ada Lovelace para a tecnologia contemporânea.
 
 Fonte: https://codelogica.wordpress.com/2018/06/19/curiosidades-da-programacao/
 
